@@ -1,0 +1,23 @@
+
+
+.heading{
+    padding:10px;
+    
+}
+.destination{
+    width:100%;
+    padding: 20px 0;
+    background-color: cadetblue;
+
+}
+/* .destination img{
+    width: 100%;
+    height:100%;
+    object-fit:cover;
+} */
+.img-container{
+    /* display:grid; */
+    margin:auto;
+    /* padding:10px 0; */
+}
+

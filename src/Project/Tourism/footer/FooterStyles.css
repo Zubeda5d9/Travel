@@ -1,0 +1,47 @@
+.footer{
+    width:100%;
+    padding: 10px 0;
+    background-color:gray;
+    color:black
+}
+
+.footer .top, .bottom{
+    display:flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .social{
+    display: flex;
+    justify-content: space-between;
+    width:280px;
+    
+    
+}
+.footer .icon{
+    color:black;
+    transform: scale(1.0);
+   
+}
+
+.footer .left, .right{
+    display:flex;
+    
+}
+.footer ul{
+    display: flex;
+    align-items: left;
+
+}
+.footer li{
+    padding: 5px;
+    
+}
+
+
+@media screen and (max-width: 1100px){
+    .footer ul{
+        flex-direction: column;
+    }
+}

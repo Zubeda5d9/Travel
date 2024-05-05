@@ -1,0 +1,57 @@
+/* .Propsinfunctionalcomponent{
+    border:2px solid black;;
+    width:500px;
+    margin:20px;
+    height:600px; */
+    /* grid-template-columns: 350px 350px 350px; */
+/* } */
+/* .Propsinfunctionalcomponent:hover{
+    color:white;
+    background-color: teal;
+}
+img:hover{
+    width:300px;
+    height:300px;
+    
+} */
+/* .image-container {
+    display: flex;
+    border:2px solid black;;
+    width:500px;
+    margin:20px;
+    height:600px;
+  } */
+
+.Home{
+    color:Black;
+    background-color: teal;
+}
+.About{
+    color:red;
+    background-color: yellow;
+}
+.Services{
+    color:white;
+    background-color: aqua;
+}
+ul{
+    list-style:none;
+    background-color: fuchsia;
+    overflow:hidden;
+}
+li a{
+    text-decoration: none;
+    display:block;
+    padding:20px;
+    color:brown;
+    margin:20px;
+
+}
+li{
+    float:left;
+}
+li a:hover{
+    color:gold;
+    border-bottom:1px solid orange;
+    
+}

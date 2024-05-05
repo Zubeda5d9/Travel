@@ -1,0 +1,87 @@
+/* .Functionprops{
+    background-color: teal;
+    color: brown;
+    width:600px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    border:10px solid white;
+}
+.Functionprops:hover{
+    color:blue;
+    background-color: yellow;
+}
+img{
+    border-radius:20px;
+}
+img:hover{
+    width:290px;
+} */
+
+/* .Course{
+    background-color: aqua;
+    width:500px;
+    height:400px;
+    border-radius: 20px;
+    box-shadow:10px 10px 2px black;
+    margin-top: -10px;
+    margin-left: 5px;
+    
+    
+}
+.Course:hover{
+    background-color: teal;
+    color:fuchsia;
+
+}
+img:hover{
+    width:280px;
+
+}
+img{
+    display:flex;
+} */
+
+  
+/* .Grandfather{
+    border:2px solid blue;
+    margin:20px;
+}
+.Father{
+    border:2px solid red;
+    margin:20px
+}
+.Child{
+    border:2px solid black;
+    margin:20px;
+} */
+
+
+.Home{
+    color:gold;
+    background-color:chocolate;
+}
+.About{
+    color:white;
+    background-color:teal ;
+}
+.Services{
+    color:yellowgreen;
+    background-color: brown;    
+}
+ul{
+    list-style: none;
+    overflow:hidden;
+    background-color: aqua;
+}
+li{
+    
+   float:left;
+    
+}
+li a{
+    text-decoration: none;
+    display: block;
+    color:black;
+    padding:20px;
+    
+}
